@@ -139,8 +139,8 @@ function saveAttachment(content, fileName, fileType) {
 //   inspect = require("util").inspect
 
 // var imap = new Imap({
-//   user: "atul.verma@soforix.com",
-//   password: "Atulverma1980@",
+//   user: "Email",
+//   password: "Password",
 //   host: "imap.gmail.com",
 //   port: 993,
 //   tls: true,

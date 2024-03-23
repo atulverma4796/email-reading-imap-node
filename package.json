@@ -1,0 +1,19 @@
+{
+  "name": "email-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.5",
+    "mailpop3": "^0.1.0",
+    "node-pop3": "^0.9.0",
+    "pop3": "^0.2.0",
+    "poplib": "^0.1.7"
+  }
+}

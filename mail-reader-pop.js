@@ -1,3 +1,5 @@
+//Got some certification error so will look in to that in some time...
+
 // const Pop3Client = require("mailpop3")
 // const { simpleParser } = require("mailparser")
 // const tls = require("tls")
@@ -6,7 +8,7 @@
 //   host: "pop.gmail.com",
 //   port: 995,
 //   tls: true,
-//   username: "atul.verma@soforix.com",
+//   username: "Your email",
 //   password: "ivlk igry picz taxl",
 // }
 // pop3Config.rejectUnauthorized = false
